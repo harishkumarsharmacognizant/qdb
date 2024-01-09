@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h3.username, p.welcome_msg{
+  color:#fff;
+  text-align: center;
+}
+
+
+.ant-image.profile_image img {
+  margin-left: auto;
+  width: 50px;
+  margin-right: auto;
+  display: block;
+  border-radius: 50%;
+}
